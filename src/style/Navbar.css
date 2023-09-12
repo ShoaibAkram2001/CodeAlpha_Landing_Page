@@ -1,0 +1,13 @@
+
+.signup_btn{
+    background-color:#20B486 ;
+    text-transform:inherit;
+    font-weight: 500;
+    font-family: sans-serif;
+    color: white;
+    padding: 12px, 24px, 12px, 24px;
+    width:168px ;
+    height: 48px;
+    border-radius: 8px;
+
+}
