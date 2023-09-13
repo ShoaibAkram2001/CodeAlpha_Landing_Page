@@ -5,10 +5,10 @@ import SearchIcon from '@mui/icons-material/Search';
 
 function Hero() {
   return (
-    <div className="w-full h-[720px] p-10 gap-86px">
-      <div className="flex  gap-10 justify-between items-center w-full h-auto rounded-[8px] sm:flex-col ">
-        <div className="flex-col items-center justify-center  ">
-          
+    <div className="w-full p-10 gap-86px bg-white sm:h-[1500]">
+      <div className=" md:flex justify-around items-center w-full rounded-[8px]  ">
+        <div className="flex-col items-center justify-center">
+
           <h3 className="text-[#6D737A] mt-[113px]  h-[32px] font-600 text-[24px]">
             START TO SUCCESS
           </h3>

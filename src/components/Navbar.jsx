@@ -9,15 +9,15 @@ import {Button,IconButton } from '@mui/material';
 function Navbar() {
 
   return (
-    <div className='flex my-3 justify-around items-center border-b-2 p-4 shadow-sm'>
+    <div className='flex  justify-around items-center border-b-2 p-4 shadow-sm bg-white'>
       <img src={logo} alt='Logo' className='h-[25px]'/>
   <nav>
     <ul className='menus  md:flex gap-9 text-[18px] font-Public cursor-pointer justify-between Sans font-[500] text-[#6D737A] sm:hidden'>
         <li>Home</li>
         <li>About</li>
-        <li>Support</li>
-        <li>Platform</li>
-        <li>Pricing</li>
+        <li>Course</li>
+        <li>Blog</li>
+        <li>Contact</li>
     </ul>
 
     </nav>
