@@ -5,6 +5,11 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Companies from './components/Companies';
 import Courses from './components/Courses';
+import Achievements from './components/Achievements';
+import Categories from './components/Categories';
+import Learning from './components/Learning';
+import Footer from './components/Footer';
+
  './components/Courses';
 
 function App() {
@@ -17,6 +22,10 @@ function App() {
     <Hero/>
    <Companies/>
    <Courses/>
+   <Achievements/>
+   <Categories />
+   <Learning />
+<Footer/>
     </div>
   )
 }
